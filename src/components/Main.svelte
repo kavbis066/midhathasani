@@ -3,6 +3,24 @@
 
     let steps = [
         {
+            name: 'Delhi Mustafabad Building Collapse',
+            src: 'https://i.ytimg.com/vi/5GWO_udRaCg/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=5GWO_udRaCg'
+        },
+        {
+            name: 'Kumbh: Muslims are running a community kitchen for Kumbh pilgrims in Prayagraj',
+            src: 'https://i.ytimg.com/vi/rICIv20iKcY/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=rICIv20iKcY'
+        },
+        {
+            name: 'Ground Report: The condition of those who lost their loved ones in the Kumbh stampede',
+            src: 'https://i.ytimg.com/vi/wKjuO4hPgek/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=wKjuO4hPgek'
+        },
+        {
             name: 'India Bangladesh Tension: People of Bangladesh who are waiting for Indian Visa', 
             src: 'https://i.ibb.co/pw0rrP6/Visa.jpg',
             service: 'BBC News',
