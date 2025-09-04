@@ -2,6 +2,12 @@
     import Step from "./Step.svelte";
 
     let steps = [
+       {
+            name: 'Pakistan shelling in many areas of Jammu',
+            src: 'https://i.ytimg.com/vi/Q5aZFIEM0jE/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=Q5aZFIEM0jE&t=19s'
+        },
         {
             name: 'Delhi Mustafabad Building Collapse',
             src: 'https://i.ytimg.com/vi/5GWO_udRaCg/hqdefault.jpg',
@@ -224,6 +230,7 @@
             <Step step={steps[13]}></Step>
             <Step step={steps[14]}></Step>
             <Step step={steps[15]}></Step>
+            <Step step={steps[16]}></Step>
         </div>
     </section>
 </main>
