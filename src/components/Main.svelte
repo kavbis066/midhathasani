@@ -4,7 +4,7 @@
     let steps = [
 {
             name: 'Onboard INS Arnala: India’s next generation anti-submarine warship',
-            src: 'https://i.ytimg.com/vi/r2EtbNHPfyE/maxresdefault.jpg',
+            src: 'https://i.ytimg.com/vi/ZeC2Ho8Icw8/maxresdefault.jpg',
             service: 'BBC News Hindi',
             href: 'https://www.youtube.com/watch?v=ZeC2Ho8Icw8&t=6s'
         },
