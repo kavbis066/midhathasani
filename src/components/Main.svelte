@@ -2,6 +2,24 @@
     import Step from "./Step.svelte";
 
     let steps = [
+{
+            name: 'Onboard INS Arnala: India's next generation anti-submarine warship',
+            src: 'https://i.ytimg.com/vi/r2EtbNHPfyE/maxresdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=ZeC2Ho8Icw8&t=6s'
+        },
+{
+            name: 'Bio Medical Waste',
+            src: 'https://i.ytimg.com/vi/Qg3kMxK_vt4/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=Qg3kMxK_vt4'
+        },
+{
+            name: 'India Pakistan: The condition of the family of the person killed in the firing in Jammu',
+            src: 'https://i.ytimg.com/vi/PqDHnRl6xYM/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=PqDHnRl6xYM&t=48s'
+        },
        {
             name: 'India Pakistan Tension: Pakistan shelling in many areas of Jammu',
             src: 'https://i.ytimg.com/vi/Q5aZFIEM0jE/hqdefault.jpg',
@@ -231,6 +249,9 @@
             <Step step={steps[14]}></Step>
             <Step step={steps[15]}></Step>
             <Step step={steps[16]}></Step>
+            <Step step={steps[17]}></Step>
+            <Step step={steps[18]}></Step>
+            <Step step={steps[19]}></Step>
         </div>
     </section>
 </main>
