@@ -3,6 +3,12 @@
 
     let steps = [
        {
+            name: 'India, China dams spark fears of water dispute, displacement',
+            src: 'https://i.ytimg.com/vi/kE_nfWouYVs/maxresdefault.jpg',
+            service: 'BBC News India',
+            href: 'https://youtu.be/kE_nfWouYVs?si=pB9TkDUhDbS8jsB2'
+       },
+       {
             name: 'Onboard INS Arnala: India’s next generation anti-submarine warship',
             src: 'https://i.ytimg.com/vi/ZeC2Ho8Icw8/maxresdefault.jpg',
             service: 'BBC News India',
