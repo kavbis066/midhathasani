@@ -258,6 +258,7 @@
             <Step step={steps[17]}></Step>
             <Step step={steps[18]}></Step>
             <Step step={steps[19]}></Step>
+            <Step step={steps[20]}></Step>
         </div>
     </section>
 </main>
