@@ -6,7 +6,7 @@
             name: 'Kolkata is home to the country's largest flower market, where the flower trade operates round-the-clock',
             src: 'https://i.ytimg.com/vi/BKQTSeKQmXA/hqdefault.jpg',
             service: 'BBC News Hindi',
-            href: 'https://youtu.be/BKQTSeKQmXA?si=kHJdN6frtvgmmxYi'
+            href: 'https://www.youtube.com/watch?v=BKQTSeKQmXA'
        },
       {
             name: 'Artifacts made from animal horns in Sambhal, which have received the GI Tag from the government',
