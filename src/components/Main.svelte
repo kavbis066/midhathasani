@@ -3,6 +3,12 @@
 
     let steps = [
       {
+            name: 'Kolkata is home to the country's largest flower market, where the flower trade operates round-the-clock',
+            src: 'https://i.ytimg.com/vi/BKQTSeKQmXA/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://youtu.be/BKQTSeKQmXA?si=kHJdN6frtvgmmxYi'
+       },
+      {
             name: 'Artifacts made from animal horns in Sambhal, which have received the GI Tag from the government',
             src: 'https://i.ytimg.com/vi/0i9lHxtsxu8/hqdefault.jpg',
             service: 'BBC News Hindi',
@@ -266,6 +272,7 @@
             <Step step={steps[19]}></Step>
             <Step step={steps[20]}></Step>
             <Step step={steps[21]}></Step>
+            <Step step={steps[22]}></Step>
 
         </div>
     </section>
