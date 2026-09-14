@@ -2,6 +2,12 @@
     import Step from "./Step.svelte";
 
     let steps = [
+      {
+            name: 'Artifacts made from animal horns in Sambhal, which have received the GI Tag from the government',
+            src: 'https://i.ytimg.com/vi/0i9lHxtsxu8/hqdefault.jpg',
+            service: 'BBC News Hindi',
+            href: 'https://www.youtube.com/watch?v=0i9lHxtsxu8'
+       },
        {
             name: 'India, China dams spark fears of water dispute, displacement',
             src: 'https://i.ytimg.com/vi/kE_nfWouYVs/maxresdefault.jpg',
@@ -259,6 +265,8 @@
             <Step step={steps[18]}></Step>
             <Step step={steps[19]}></Step>
             <Step step={steps[20]}></Step>
+            <Step step={steps[21]}></Step>
+
         </div>
     </section>
 </main>
