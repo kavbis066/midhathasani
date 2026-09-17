@@ -85,16 +85,20 @@
         </div>
         <div class="flex flex-col gap-5 w-full mx-auto max-w-[800px]">
             <p class="text-base sm:text-lg md:text-xl text-slate-400">
-                I'm a multilingual video journalist and producer with over 7 years of experience in digital news, field reporting, and multi-platform production. From breaking news 
-                to in-depth documentaries and studio shows, I've crafted compelling visual stories under tight deadlines and high-pressure environments.
+                I'm a multilingual video journalist and producer with over eight years of experience in digital news, 
+                field reporting, and multi-platform storytelling. From breaking news and current affairs to documentaries 
+                and feature productions, I've created compelling visual stories in fast-paced, high-pressure environments.
             </p>
             <p class="text-base sm:text-lg md:text-xl text-slate-400">
-                At BBC's Worklife India, I've led end-to-end production — pitching, scripting, shooting, and editing stories that resonate. Whether it's reporting from the field or 
-                creating live content for social media, I bring a mix of creativity, precision, and editorial depth to every project.
+                I work across the entire production process, from developing story ideas and reporting in the field to shooting, 
+                scripting, editing, and delivering content for global audiences. Whether covering major news events or crafting 
+                in-depth human-interest stories, I strive to combine strong journalism with engaging visual storytelling.
             </p>
             <p class="text-base sm:text-lg md:text-xl text-slate-400">
-                I'm skilled with Sony FX series cameras, gimbals, and mobile journalism tools, and I thrive in collaborative teams. With a strong understanding of the South Asia 
-                region, I aim to tell stories that matter — with clarity, empathy, and cinematic craft.
+                Skilled in Sony alpha and FX series cameras, gimbals, drones, and mobile journalism tools, I bring a versatile and hands-on 
+                approach to every project. With a deep understanding of South Asia and a passion for stories that matter, 
+                I aim to produce work that informs, connects, and resonates with audiences through clarity, empathy, and cinematic craft.
+
             </p>
         </div>
     </section>
